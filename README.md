@@ -1,0 +1,2 @@
+# Enhanced-Hate-Speech-Classification-Using-Logistic-Regression-on-Balanced-Multi-Dataset-Corpus
+This project aims to build an AI-powered text classification model that detects and categorizes online content as Hate Speech, Offensive, or Neutral. Using Logistic Regression trained on a balanced multi-dataset corpus, the model addresses data imbalance and improves fairness and accuracy across diverse linguistic patterns.
